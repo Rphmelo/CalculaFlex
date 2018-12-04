@@ -78,4 +78,10 @@
         <item name="android:layout_weight">0.5</item>
     </style>
 
+    <style name="fullScreen" parent="AppTheme">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <item name="android:windowFullscreen">true</item>
+    </style>
+
 </resources>
